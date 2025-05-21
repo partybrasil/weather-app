@@ -1,3 +1,6 @@
 def get_weather():
+    # Cambio principal: actualizar mensaje clima
     # Cambio secundario conflictivo: mensaje alternativo
-    return "Partly cloudy"
+
+    # Puedes combinar los cambios o elegir uno, por ejemplo:
+    return "Sunny with light breeze and partly cloudy skies"
